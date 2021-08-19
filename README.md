@@ -10,7 +10,7 @@ Project Flutter Circular Progress Bar.
 ### Circular Progress Bar.
 <div align="center" width="100%">
 
- <img width="30%" src="https://github.com/adamkif/Flutter_Circular_Progress_Bar/blob/main/Screenshot/CircularProgressBar.gif"
+ <img width="30%" src="https://github.com/adamkif/Flutter_Circular_Progress_Bar/blob/master/Screenshot/CircularProgressBar.gif"
       alt="Circular Progress Bar">
 </div>
 
